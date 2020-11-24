@@ -1,0 +1,86 @@
+
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+  width: 800px;
+  <!-- margin: 0 auto; -->
+}
+
+h1, h2, h3 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+/* header styles */
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+header p {
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* section styles */
+
+section block {
+  width: 100%;
+  float: left;
+}
+
+block h3 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+/*  letter-spacing: 3px; */
+}
+
+section article {
+  width: 100%;
+  float: left;
+}
+
+section p {
+  margin: 5px 0px;
+}
+
+section ul {
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+/*  letter-spacing: -5px; */
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.8rem;
+/*  letter-spacing: -5px; */
+  margin-bottom: 10px;
+}
+
+
+header h4 {
+  font-size: 1.5rem;
+  margin-bottom: -15px;  
+  text-align: center;
+}
+
+h4 {
+  font-size: 1.0rem;
+}
+
+h5 {
+  font-size: 1.0rem;
+/*  margin-bottom: -10px; */  
+}
+
+
+
+@media print {
+  @page { margin: 0; margin-left: 1em ; margin-right: 1em; }
+}

@@ -1,0 +1,628 @@
+{
+    "Personal": {
+        "Given name": "Richard Tjörnhammar",
+        "Birthday": "7:th June 1982",
+        "Contact information": {
+            "Mobile": "0046 73 708 34 00",
+            "E-mail": "richard.tjornhammar@gmail.com"
+        },
+        "Address": "Johan Enbergs väg 32, 171 61 Solna, Stockholm, Sweden",
+        "Motto": "My overarching goal in life is to expand my knowledge and try to use it for the good of humanity.",
+        "Traits": [
+            "Visionary",
+            "Disciplined",
+            "Dutiful",
+            "Systematic"
+        ],
+        "Stress character": "Thorough and endurant",
+        "History": "Richard Tjörnhammar obtained his engineering degree in physics from the Royal Institute of Technology (KTH) and University of Science and Technology of China (USTC) from the Division of Theoretical and Computational Sciences, Hefei National Laboratory for Physical Sciences at the Microscale. He defended his PhD from the Theoretical Physics Department at KTH on the topic of statistical mechanics of complex molecular systems and conducted post-doctoral training at Karolinska Institute (KI) in Computational Structural Biology at the Department of Medical Biochemistry and Biophysics in the group of Molecular Structural Biology. Richard also served as a researcher in the Biostatistics group at the School for Chemistry, Biology and Health at KTH. He was later working as a Bioinformatics scientist at the Department of Physiology and Pharmacology in the group of Integrative Physiology at KI and is currently looking for new exciting challenges. His research interests have, for more than the latest decade, been focused on the mathematical modelling, simulation and analysis of complex systems.",
+        "Primary skills": "Skilled in Statistical Modeling ( multivariate analysis and multiple hypothesis testing ),  Research and Development (R&D), Simulation, Python ( pandas, numpy, sklearn ), R, Matlab, Statistical learning, Linux (Gentoo, Nix), C/C++, unsupervised learning and Signal optimization. Professional scientist with a Doctor of Philosophy (PhD) in Physics from KTH Royal Institute of Technology.",
+        "Desires": "Intellectually stimulating or creative work"
+    },
+    "Work life experience": [
+        {
+            "Position": "Bioinformatics Scientist",
+            "Company": {
+                "Name": "Karolinska Institutet",
+                "Branch": "Department of Physiology and Pharmacology",
+                "Division": "Group of Integrative Physiology"
+            },
+            "Place": "Biomedicum",
+            "Dates": [
+                "2019-02-01T00:00:00.000Z",
+                "2020-09-25T00:00:00.000Z"
+            ],
+            "Description": "I utilized various numerical and statistical methods to conduct multi source data integration and visualization of diabetes patient data. My research focus has been methods development, modeling and visualization of casual risk factors for complex metabolic diseases.",
+            "Projects": [
+                {
+                    "Name": "AZ Work Package 1 analysis",
+                    "Role": "Scientist",
+                    "Description": "Project goal was to apply the study the WP1 data again. I choose to employ the newly developed PLS method to new data from type 2 diabetic (T2D) subjects and both transcriptomic as well as metabolomic data was included. The newly developed PLS method was applied to all the different data types. New WP1 gene discoveries were : UNC13C, PCYT2, BDH1, STARD3, etc. etc. The most interesting discovery was the accentuation of hydroxyacids although it is an expected result.",
+                    "URLS": [
+                        "https://bit.ly/32wQwTS",
+                        "https://bit.ly/37sSpV4"
+                    ]
+                },
+                {
+                    "Name": "Big data rerun",
+                    "Role": "Scientist",
+                    "Description": "This data curation and collection was meant as a larger data project but in the end amounted to ca 200 T2D samples. I performed several analyses in the project but here only the newly developed PLS method applied to the AZ data is presented. In order to study patient medication confounders i.e. Statins, Metformin and other confounders that method was found superior. After deconvolution of factors I discovered influence on the diabetic state of SLC16A10, HK2, BDH1, PCYT2, EZR, PDK4, HSPA2 etc etc. This is well known already.",
+                    "URL": "https://bit.ly/2Ivflc0"
+                },
+                {
+                    "Name": "NGT IGT T2D progression",
+                    "Role": "Scientist",
+                    "Description": "The progression leading up to becoming Type 2 diabetic is not clear but there are people whom seem to exist in an intermediary state. I employed different analysis methods including the newly developed PLS and rankor methods to study the effect. GPCR, GHDC and GGT genes such as GGT2/GGT3 were found important for developing inhibited glucose tolerance.",
+                    "URLS": [
+                        "https://github.com/richardtjornhammar/rankor/blob/master/src/digraph_all_contrastsIGT-NGT.pdf",
+                        "https://bit.ly/3ktm6bD"
+                    ]
+                },
+                {
+                    "Name": "AZ Work Package 2 ( Mitoclock )" ,
+                    "Role": "Scientist" ,
+                    "Description": "This project aimed to describe how mitochondiral respiration might be inhibted by altered OPA1 function" ,
+                    "URL": "https://bitbucket.org/richardtjornhammar/r-codes-mcazwp2/src/master/"
+                },
+                {
+                    "Name": "Supervision support FOI/KTH student",
+                    "Role": "Informal supervision",
+                    "Description": "ET ) Continued discussions on hierarchical clustering and multivariate factor analysis led to the development of orthogonal encodings that he suggested should be used together with the PLS method early in 2019. He outlined the rpls algorithm and I wrote it down and added it to the impetuous-gfa repository that is available online.",
+                    "URL": "https://github.com/richardtjornhammar/impetuous"
+                }
+            ],
+            "URL":"https://bit.ly/3kjOMDG",
+            "Skills": [
+                "Programming",
+                "Statistical analysis",
+                "Research and development",
+                "Project management",
+                "Presentation",
+                "Data analysis",
+                "Mathematical modeling",
+                "Algorithm development",
+                "Multivariate analysis",
+                "Multiple hypothesis testing",                
+                "Linux",
+                "Open source",
+                "Artificial neural networks",
+                "Factor analysis",
+                "Regression",
+                "Hierarchical data",
+                "Hierachical enrichment",
+                "Hierarchical factor analysis",
+                "Hierarchical clustering",
+                "Clustering",
+                "SVD"
+            ],
+            "Tools": [
+                "Python",
+                "numpy",
+                "pandas",
+                "scikit learn",
+                "bokeh",
+                "R",
+                "statsmodels",
+                "sklearn",
+                "C/C++",
+                "GSL",
+                "Pytorch",
+                "Ubuntu",
+                "NixOS",
+                "Graphviz",
+                "Gentoo"
+            ]
+        },
+        {
+            "Position": "Researcher",
+            "Company": {
+                "Name": "Royal Institute of Technology",
+                "Branch": "School for Chemistry, Biology and Health",
+                "Division": "Statistical Biotechnology"
+            },
+            "Place": "SciLifeLab, Solna, Stockholm, Sweden",
+            "Dates": [
+                "2017-04-01T00:00:00.000Z",
+                "2019-01-31T00:00:00.000Z"
+            ],
+            "Description": "Worked on methods development aimed at combining descriptive statistics, statistical learning and hierarchical factor analysis techniques in order to analyze data in a diabetes research project and quantify casual risk factors for diabetes.",
+            "Projects": [
+                {
+                    "Name": "Astra Zeneca consortium",
+                    "Role": "Data Analyst",
+                    "Description": "Held several presentations regarding results coming from the data generated by other collaborators. The goal was to shed new and alternative light on data they had already processed. Altered transcript activity in diabetics were of central concern and several transcripts of interest were identified at this stage including known ones such as : NDUFS, SLC16A10, OPA1, OMA1, BCKHD, etc etc. Several pathways were identified such as hydrolysis of LPE, pyruvate metabolism and oxoglutarate to hydroxyglutarate interconversion and NOTCH signaling. The pathway analysis results used my own developed extensive righteous method.",
+                    "URLS": [
+                        "https://bit.ly/2JTE8XH",
+                        "https://bit.ly/32yAJ7o"
+                    ]
+                },
+                {
+                    "Name": "Righteous pathway factor analysis",
+                    "Role": "Scientist",
+                    "Description": "I mostly employed the righteous code as present in my own encrypted git repo. A slimmed down version of that code can be found in the righteous-fa repo which is publically available. Factor analysis results were ranked according to ANOVA modulation between the major component of variance and the coarse grained descriptor of interest. The second bitly link was created in 2017 the proof is here: https://bit.ly/32HBhaR",
+                    "URLS": [
+                        "https://github.com/richardtjornhammar/righteous",
+                        "https://bit.ly/35lhCiN"
+                    ]
+                },
+                {
+                    "Name": "Dynamic JS/Python",
+                    "Role": "Developer",
+                    "Description": "I wrote a visualisation library that lets a user link bokeh python plots and search them via auto-generated JS code. Not publically available but can be shared on request. A example generated at a later stage can be found following the URL.",
+                    "URL": "https://bit.ly/2IJSoBK"
+                },
+                {
+                    "Name": "Supervision support FOI/KTH student",
+                    "Role": "Informal supervision",
+                    "Description": "ET ) Discussions about Machine learning and connectivity. He developed the concept of connectivity clustering into a hierarchical clustering routine and library in python. Not yet publically available."
+                },
+                {
+                    "Name": "Supervision support KTH student",
+                    "Role": "Informal supervision",
+                    "Description": "RG ) Mainly code sharing where he got access to my righteous repo as well as discussions about research."
+                },
+                {
+                    "Name": "Supervision support KTH student",
+                    "Role": "Informal supervision",
+                    "Description": "YZ ) Discussions about research and helped him set up a nginx server account for an off site show casing that he wanted and could use."
+                }
+            ],
+            "Skills": [
+                "Programming",
+                "Statistical analysis",
+                "Research and Development",
+                "Project Management",
+                "Presentation",
+                "Data analysis",
+                "Mathematical modeling",
+                "Algorithm development",
+                "Multivariate analysis",
+                "Multiple hypothesis testing",
+                "Linux",
+                "Open source",
+                "Artificial neural networks",
+                "Factor analysis",
+                "Regression",
+                "Hierarchical data",
+                "Hierachical enrichment",
+                "Hierarchical clustering",
+                "Clustering",
+                "SVD"
+            ],
+            "Tools": [
+                "Python",
+                "numpy",
+                "pandas",
+                "scikit learn",
+                "bokeh",
+                "JS",
+                "statsmodels",
+                "sklearn",
+                "C/C++",
+                "GSL",
+                "Keras",
+                "Ubuntu",
+                "NixOS"
+            ]
+        },
+        {
+            "Position": "Postdoctoral researcher",
+            "Company": {
+                "Name": "Karolinska Institutet",
+                "Branch": "Department of Medical Biochemistry and Biophysics",
+                "Division": "Molecular Structural Biology"
+            },
+            "Place": "Scheele Lab, Stockholm, Sweden",
+            "Dates": [
+                "2015-01-01T00:00:00.000Z",
+                "2017-03-31T00:00:00.000Z"
+            ],
+            "Description": "Post-doc in computational structural biophysics. I was working on projects that aimed to derive effective descriptions of ligand binding by developing and employing signal optimization methods. The experimental methodology was x-ray crystallography, where the electron density reconstruction was calculated from x-ray scattering images. The theoretical framework was statistical mechanics and quantum mechanics and my algorithms were implemented both as stand alone codes as well as modules for a larger software suite.",
+            "Projects": [
+                {
+                    "Name": "Enhanced ligand clustering and fitting",
+                    "Role": "Scientist",
+                    "Description": "A simple library that, at the time, outperformed the vanilla ligand fitting methods simply by doing a naive shape fit. More advanced methods were developed but the naive implementations were implemented as stand alone codes.",
+                    "URL": "https://github.com/richardtjornhammar/RichTools"
+                },
+                {
+                    "Name": "Electron density optimization",
+                    "Role": "Scientist",
+                    "Description": "Developed a code where the information order/disorder optimum is localized via a golden ratio search. The information capacity or kurtosis becomes unimodal over the set of all sharpnening or blurring exponents. The solution was implemented as a routine that would fit a larger software package but also as a stand alone code primarily used for testing and development.",
+                    "URL": "https://github.com/richardtjornhammar/MapTool"
+                },
+                {
+                    "Name": "Model dynamics and enhanced model validation",
+                    "Role": "Scientist",
+                    "Description": "Final project where the molecular dynamics of the crystallographic model was simulated together with the electron density but where the electron density was included as a non conservative force in the molecular dynamics simulation. The method was developed to fit a larger software suite as well as a stand alone code."
+                },
+                {
+                    "Name": "Consistent spurious water identification",
+                    "Role": "Scientist",
+                    "Description": "A minor project aimed at alleviating a problem in COOT where water molecules were not identified properly. I solved it and the code was sent to my nearest boss and his COOT contact."
+                },
+                {
+                    "Name": "Teaching",
+                    "Role": "Teacher",
+                    "Description": "Taught in the course: Organic Chemistry ( 2015, 2016 )"
+                }
+            ],
+            "Skills": [
+                "Programming",
+                "Statistical analysis",
+                "Computational structural biology",
+                "Statistical mechanics",
+                "Molecular dynamics",
+                "Clustering",
+                "Signal optimisation",
+                "Factor analysis",
+                "Simulation",
+                "SVD"
+            ],
+            "Tools": [
+                "C/C++",
+                "Boost",
+                "GSL",
+                "FFTW3",
+                "Git",
+                "Subversion",
+                "Python",
+                "matplotlib",
+                "numpy"
+            ]
+        },
+        {
+            "Position": "PhD Duty",
+            "Company": {
+                "Name": "Royal Institute of Technology",
+                "Branch": "Department of Theoretical Physics",
+                "Division": "Theoretical Biological Physics"
+            },
+            "Place": "Albanova Universitetscentrum, Stockholm, Sweden",
+            "Dates": [
+                "2009-03-01T00:00:00.000Z",
+                "2014-12-31T00:00:00.000Z"
+            ],
+            "Description": "Emphasis of the work was placed on molecular dynamics, statistical mechanics, analytical models, statistical analysis and programming. Theoretical models were validated against experimental x-ray and neutron scattering data.",
+            "Projects": [
+                {
+                    "Name": "Connectivity clustering for hierarcichal quantum mechanical calculations",
+                    "Role": "Scientist",
+                    "Description": "Developed new computational tools that would facilitate the calculation of segmented but complete quantum mechanical calculations of molecular systems. It was implemented as a routine that circumvented GROMACS 4.0.7 regular force calculation routines and piped the hierarchy to MPQC from which it was retrieved and pieced back toghether. A stand alone version of the simulation system was also developed."
+                },
+                {
+                    "Name": "Classical to quantum mechanical integration methods",
+                    "Role": "Scientist",
+                    "Description": "The goal was to develop a consistent understanding of integrating a complex quantum mechanical system to its classical counterpart. The Quantum mechanical to classical mechanical integration was implemented in a local version of GROMACS 4.0.7"
+                },
+                {
+                    "Name": "Simple ligand binding integrations in complex liquids",
+                    "Role": "Scientist",
+                    "Description": "The goal was to evaluate and develop methodologies for ligand binding descriptions. The work was mostly theoretical"
+                },
+                {
+                    "Name": "Phase disruption and signal propagation from inclusions in complex biological systems",
+                    "Role": "Scientist",
+                    "Description": "The goal was to develop a consistent understanding of the order-disorder properties and bulk relaxation characterics of inclusions in complex biological films. The nicest result stemming from this project was my neat factorisation of the resulting kelvin differential equation."
+                },
+                {
+                    "Name": "Signal optimisation via density functional reshaping in complex molecular systems",
+                    "Description": "The goal was to develop and deploy a damping method for removing excesive ordering and reshaping density in QMMM water simulations. It was only ever implemented as a stand alone routine."
+                },
+                {
+                    "Name": "Order disorder transitions of molecular bilayer films",
+                    "Role": "Scientist",
+                    "Description": "The goal was to develop a consistent understanding and description of the transition properties belonging to complex biological systems when integrated across the phase transition point. As stated resulted in exactly that."
+                },
+                {
+                    "Name": "Teaching",
+                    "Role": "Teacher",
+                    "Description": "Taught in the courses: Thermodynamics (2009), Computational Physics (2009, 2010 and 2011) , Mathematical Methods in Physics: Vector Analysis (2010) , Mathematical Methods in Physics: Partial Differential Equations (2011 and 2012) and Statistical Mechanics (2013)"
+                }
+            ],
+            "URL": "http://www.theophys.kth.se/~richardt/",
+            "Skills": [
+                "Research and Development",
+                "Simulation",
+                "Molecular dynamics",
+                "Project Management",
+                "Presentation",
+                "Data analysis",
+                "Statistical analysis",
+                "Mathematical modeling",
+                "Statistical mechanics",
+                "Density Functional Theory",
+                "Quantum Mechanics",
+                "Algorithm development",
+                "Statistical optimisation",
+                "Linux",
+                "Open source",
+                "Artificial neural networks",
+                "Signal optimisation",
+                "Clustering",
+                "Connectivity clustering",
+                "SVD"
+            ],
+            "Tools": [
+                "C/C++",
+                "GSL",
+                "FFTW3",
+                "Python",
+                "numpy",
+                "matplotlib",
+                "Matlab",
+                "VMD",
+                "OpenMP",
+                "MPI",
+                "Cuda",
+                "Ubuntu"
+            ]
+        },
+        {
+            "Position": "Predoctoral Researcher",
+            "Company": {
+                "Name": "Royal Institute of Technology",
+                "Branch": "Department of Applied Physics",
+                "Division": "Biomedical and X-Ray Physics"
+            },
+            "Place": "Albanova Universitetscentrum, Stockholm, Sweden",
+            "Dates": [
+                "2007-05-25T00:00:00.000Z",
+                "2009-02-25T00:00:00.000Z"
+            ],
+            "Description": "Worked on development of a hard x-ray source. The focus of the work was the electron optics and image quality optimization and image processing.",
+            "Projects": [
+                {
+                    "Name": "Line focus for a liquid jet x ray source",
+                    "Role": "Researcher",
+                    "Description": "Designed, built and evaluated electron optics for use as a line focusing device"
+                },
+                {
+                    "Name": "Phase contrast imaging with brilliant x ray sources",
+                    "Role": "Researcher",
+                    "Description": "Tried different experimental designs and numerical approaches aimed at increasing the phase contrast information"
+                }
+            ],
+            "Skills": [
+                "Research and Development",
+                "Experimental methods",
+                "FEM",
+                "MatLab"
+            ],
+            "Tools": [
+                "CAD",
+                "MatLab",
+                "Comsol Multiphysics"
+            ]
+        },
+        {
+            "Position": "Visiting pregraduate researcher",
+            "Company": {
+                "Name": "University of Science and Technology of China (USTC)",
+                "Branch": "Hefei National Laboratory for Physical Sciences at the Microscale",
+                "Division": "Division of Theoretical and Computational Sciences"
+            },
+            "Place": "Hefei, Anhui, China",
+            "Dates": [
+                "2006-08-31T00:00:00.000Z",
+                "2007-02-01T00:00:00.000Z"
+            ],
+            "Description": "Hired at the university at the Division of Theoretical and Computational Sciences, where I both studied Density Functional Theory (DFT) and conducted applied computational research on quantum mechanical (DFT) properties of different systems such as graphite, boron nitrade nano tubes as well as borazine complexes",
+            "Projects": [
+                {
+                    "Name": "Hunting for Half Metallic Properties in 4d-Transition Metal Complexes Through Interaction Effects using DFT",
+                    "Role": "Researcher, Computation",
+                    "Description": "I performed DFT calculations on various repeating molecular systems. The aim was to evaluate new types of materials (organic transition metal alloys) for potential use as spin filters in spintronic devices.",
+                    "URL": "https://link.springer.com/article/10.1007%2Fs11467-009-0054-2"
+                }
+            ],
+            "URL": "https://en.hfnl.ustc.edu.cn/2011/0711/c8318a99278/page.htm",
+            "Skills": [
+                "Research and Development",
+                "DFT",
+                "Density Functional Theory",
+                "Applied Mathematics",
+                "Chinese",
+                "Mathematical modeling",
+                "Electron structure calculations"
+            ],
+            "Tools": [
+                "VASP",
+                "Gentoo",
+                "MatLab",
+                "C/C++",
+                "GSL"
+            ]
+        }
+    ],
+    "Education": [
+        {
+            "Degree": "Doctor of Philosophy in Physics",
+            "Specialisation": "Biological and Biomedical Physics",
+            "Field of study": "Biological Physics",
+            "Dates": [
+                "2009-02-23T00:00:00.000Z",
+                "2014-11-13T00:00:00.000Z"
+            ],
+            "Degree publication": "Classical and Quantum Descriptions of Proteins, Lipids and Membranes",
+            "School": "Royal Institute of Technology",
+            "Place": "Stockholm, Sweden"
+        },
+        {
+            "Degree": "Master of Science in Engineering",
+            "Specialisation": "Degree Programme in Engineering Physics",
+            "Field of study": "Biological Physics",
+            "Dates": [
+                "2001-08-31T00:00:00.000Z",
+                "2007-02-22T00:00:00.000Z"
+            ],
+            "Degree publication": "Hunting for Half Metallic Properties in 4d-Transition Metal Complexes Through Interaction Effects using DFT",
+            "School": "Royal Institute of Technology",
+            "Place": "Stockholm, Sweden"
+        },
+        {
+            "Degree": "Diploma",
+            "Specialisation": "Chinese Language",
+            "Field of study": "Mandarin",
+            "Dates": [
+                "2003-09-01T00:00:00.000Z",
+                "2004-07-01T00:00:00.000Z"
+            ],
+            "School": "Wuhan University",
+            "Place": "Wuhan, China"
+        },
+        {
+            "Degree": "High school",
+            "Field of study": "Natural science programme",
+            "Specialisation": "Natural sciences",
+            "Dates": [
+                "1998-08-17T00:00:00.000Z",
+                "2001-06-08T00:00:00.000Z"
+            ],
+            "School": "Åsö Gymnasium",
+            "Place": "Stockholm, Sweden"
+        }
+    ],
+    "Certificates": [
+        {
+            "Type": "Drivers License",
+            "Valid for": "AM and B class vehicles",
+            "Issuer": "Transportstyrelsen",
+            "Date": "2017-02-02T00:00:00.000Z"
+        }
+    ],
+    "Languages": [
+        {
+            "Type": "Swedish",
+            "CEFR level": "C2",
+            "ILR level": "5"
+        },
+        {
+            "Type": "English",
+            "CEFR level": "C2",
+            "ILR level": "4"
+        },
+        {
+            "Type": "Chinese",
+            "CEFR level": "C2",
+            "ILR level": "4"
+        },
+        {
+            "Type": "German",
+            "CEFR level": "B1",
+            "ILR level": "1"
+        }
+    ],
+    "Publications": [
+        {
+            "Title": "Exploratory Projection to Latent Structure Models for use in Transcriptomic Analysis",
+            "Issuer": "arXiv",
+            "URL": "https://arxiv.org/abs/2001.06544",
+            "Date": "2020-04-22T00:00:00.000Z"
+        },
+        {
+            "Title": "Rankor - Hierarchal Factor Analysis Library for Humans",
+            "Issuer": "Zenodo",
+            "URL": "https://doi.org/10.5281/zenodo.3904441",
+            "Date": "2020-06-23T00:00:00.000Z"
+        },
+        {
+            "Title": "Counterpartner - Finding polar matches for automatic cohort building",
+            "Issuer": "Zenodo",
+            "URL": "https://doi.org/10.5281/zenodo.3833963",
+            "Date": "2020-05-19T00:00:00.000Z"
+        },
+        {
+            "Title": "impetuous-gfa - Simple Group Analysis Library for Humans",
+            "Issuer": "Zenodo",
+            "URL": "http://doi.org/10.5281/zenodo.4247521",
+            "Date": "2019-05-19T00:00:00.000Z"
+        },
+        {
+            "Title": "righteous-fa - Righteous Pathway Factor Analysis Library for Humans",
+            "Issuer": "Zenodo",
+            "URL": "https://doi.org/10.5281/zenodo.3445967",
+            "Date": "2019-08-21T00:00:00.000Z"
+        },
+        {
+            "Title": "Reparameterized United Atom Model for Molecular Dynamics Simulations of Gel and Fluid Phosphatidylcholine Bilayers",
+            "Issuer": "American Chemical Society",
+            "URL": "https://doi.org/10.1021/ct500589z",
+            "Date": "2014-10-12T00:00:00.000Z"
+        },
+        {
+            "Title": "Classical and Quantum Descriptions of Proteins, Lipids and Membranes",
+            "Issuer": "Diva",
+            "URL": "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A748464&dswid=-7090",
+            "Date": "2014-10-07T00:00:00.000Z"
+        },
+        {
+            "Title": "The Shape and Free Energy of a Lipid Bilayer Surrounding a Membrane Inclusion",
+            "Issuer": "Chemistry and Physics of Lipids",
+            "URL": "https://doi.org/10.1016/j.chemphyslip.2012.12.005",
+            "Date": "2013-04-31T00:00:00.000Z"
+        },
+        {
+            "Title": "Phase Transitions in Coarse-Grained Lipid Bilayers Containing Cholesterol by Molecular Dynamics Simulations",
+            "Issuer": "Biophysical Journal",
+            "URL": "https://doi.org/10.1016/j.bpj.2012.10.014",
+            "Date": "2012-11-21T00:00:00.000Z"
+        },
+        {
+            "Title": "Structural Correlations and Thermodynamics of the Gel Phase in Lipid Bilayers",
+            "Issuer": "Biophysical Journal",
+            "URL": "https://doi.org/10.1016/j.bpj.2011.11.2757",
+            "Date": "2012-01-31T00:00:00.000Z"
+        },
+        {
+            "Title": "Quantum Mechanical to Classical Thermodynamic Integration of Zinc Binding in Proteins",
+            "Issuer": "Biophysical Journal",
+            "URL": "https://doi.org/10.1016/j.bpj.2010.12.2338",
+            "Date": "2011-02-02T00:00:00.000Z"
+        },
+        {
+            "Title": "Molecular dynamics simulations of Zn2+ coordination in protein binding sites",
+            "Issuer": "The Journal of Chemical Physics",
+            "URL": "https://doi.org/10.1063/1.3428381",
+            "Date": "2010-05-24T00:00:00.000Z"
+        },
+        {
+            "Title": "Clustering Method in QMMM Modeling of the HLADH Binding Site",
+            "Issuer": "Biophysical Journal",
+            "URL": "https://doi.org/10.1016/j.bpj.2009.12.224",
+            "Date": "2010-01-01T00:00:00.000Z"
+        },
+        {
+            "Title": "A first-principles study on the electronic structure of one-dimensional [TM(Bz)] polymer (TM= Y, Zr, Nb, Mo, and Tc)",
+            "Issuer": "Frontiers of Physics in China",
+            "URL": "https://doi.org/10.1007/s11467-009-0054-2",
+            "Date": "2009-05-30T00:00:00.000Z"
+        },
+        {
+            "Title": "Laboratory x-ray micro imaging: Sources, optics, systems and applications",
+            "Issuer": "Journal of Physics Conference Series",
+            "URL": "https://doi.org/10.1088/1742-6596/186/1/012027",
+            "Date": "2008-06-25T00:00:00.000Z"
+        }
+    ],
+    "Other Supporting Information": [
+        {
+            "CoderStats": "https://coderstats.net/github/#richardtjornhammar"
+        },
+        {
+            "GitHub": "https://github.com/richardtjornhammar"
+        },
+        {
+            "GitLab": "https://gitlab.com/richardtjornhammar"
+        },
+        {
+            "BitBucket": "https://bitbucket.org/richardtjornhammar"
+        },
+        {
+            "CSDN": "https://codechina.csdn.net/m0_52121311"
+        },
+        {
+            "Assorted Visuals": "https://github.com/richardtjornhammar/AssortedVisualsPresentation/blob/main/VisalisationPortfolio.pdf"
+        }
+    ]
+}
