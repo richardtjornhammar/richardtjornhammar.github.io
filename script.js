@@ -1,47 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" >
-
-    <title> Richard Tjörnhammar's jsic CV </title>
-  
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Permanent+Marker">
-    
-    <!-- Faster+One Tangerine Inconsolata Anton-->
-    <link rel="stylesheet" href="style.css">
-  </head>
-
-  <body>
-      <header>
-      </header>
-
-      <div id="my_dataviz"></div>
-
-      <summary>
-      </summary>
-
-      <section id="work">
-      </section>
-
-      <section id="education">
-      </section>
-
-      <section id="certificates">
-      </section>
-
-      <section id="languages">
-      </section>
-
-      <section id="publications">
-      </section>
-
-      <section id="other">
-      </section>
-
-      <section id="footer">
-      </section>
-
-    <script>
     const header  	= document .querySelector( 'header'  );
     const summary 	= document .querySelector( 'summary' );
     let requestURL	= 'richard_cv.json'
@@ -375,7 +331,3 @@
         section.appendChild(myArticle);
       }
     }
-    </script>
-
-  </body>
-</html>
