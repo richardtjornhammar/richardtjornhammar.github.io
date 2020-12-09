@@ -1,4 +1,4 @@
-{
+﻿{
     "Personal": {
         "Given name": "Richard Tjörnhammar",
         "Birthday": "7:th June 1982",
@@ -89,7 +89,7 @@
                 "Factor analysis",
                 "Regression",
                 "Hierarchical data",
-                "Hierachical enrichment",
+                "Hierarchical enrichment",
                 "Hierarchical factor analysis",
                 "Hierarchical clustering",
                 "Clustering",
@@ -139,7 +139,7 @@
                 {
                     "Name": "Righteous pathway factor analysis",
                     "Role": "Scientist",
-                    "Description": "I mostly employed the righteous code as present in my own encrypted git repo. A slimmed down version of that code can be found in the righteous-fa repo which is publically available. Factor analysis results were ranked according to ANOVA modulation between the major component of variance and the coarse grained descriptor of interest. The second bitly link was created in 2017 the proof is here: https://bit.ly/32HBhaR",
+                    "Description": "I mostly employed the righteous code as present in my own encrypted git repo. A slimmed down version of that code can be found in the righteous-fa repo which is publicly available. Factor analysis results were ranked according to ANOVA modulation between the major component of variance and the coarse grained descriptor of interest. The second bitly link was created in 2017 the proof is here: https://bit.ly/32HBhaR",
                     "URLS": [
                         "https://github.com/richardtjornhammar/righteous",
                         "https://bit.ly/35lhCiN"
@@ -148,13 +148,13 @@
                 {
                     "Name": "Dynamic JS/Python",
                     "Role": "Developer",
-                    "Description": "I wrote a visualisation library that lets a user link bokeh python plots and search them via auto-generated JS code. Not publically available but can be shared on request. A example generated at a later stage can be found following the URL.",
+                    "Description": "I wrote a visualisation library that lets a user link bokeh python plots and search them via auto-generated JS code. Not publicly available but can be shared on request. A example generated at a later stage can be found following the URL.",
                     "URL": "https://bit.ly/2IJSoBK"
                 },
                 {
                     "Name": "Supervision support FOI/KTH student",
                     "Role": "Informal supervision",
-                    "Description": "ET ) Discussions about Machine learning and connectivity. He developed the concept of connectivity clustering into a hierarchical clustering routine and library in python. Not yet publically available."
+                    "Description": "ET ) Discussions about Machine learning and connectivity. He developed the concept of connectivity clustering into a hierarchical clustering routine and library in python. Not yet publicly available."
                 },
                 {
                     "Name": "Supervision support KTH student",
@@ -184,7 +184,7 @@
                 "Factor analysis",
                 "Regression",
                 "Hierarchical data",
-                "Hierachical enrichment",
+                "Hierarchical enrichment",
                 "Hierarchical clustering",
                 "Clustering",
                 "SVD"
@@ -286,7 +286,7 @@
             "Description": "Emphasis of the work was placed on molecular dynamics, statistical mechanics, analytical models, statistical analysis and programming. Theoretical models were validated against experimental x-ray and neutron scattering data.",
             "Projects": [
                 {
-                    "Name": "Connectivity clustering for hierarcichal quantum mechanical calculations",
+                    "Name": "Connectivity clustering for hierarchical quantum mechanical calculations",
                     "Role": "Scientist",
                     "Description": "Developed new computational tools that would facilitate the calculation of segmented but complete quantum mechanical calculations of molecular systems. It was implemented as a routine that circumvented GROMACS 4.0.7 regular force calculation routines and piped the hierarchy to MPQC from which it was retrieved and pieced back toghether. A stand alone version of the simulation system was also developed."
                 },
