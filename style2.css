@@ -1,0 +1,86 @@
+
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+  width: 800px;
+  <!-- margin: 0 auto; -->
+}
+
+h1, h2, h3 {
+  font-family:  helvetica, sans-serif;
+}
+
+/* header styles */
+h1 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+header p {
+  font-size: 1.00rem;
+  /* font-weight: bold; */
+  text-align: Left;
+}
+
+header h4 {
+  font-size: 1.1rem;
+  margin-bottom: -15px;  
+  text-align: left;
+}
+
+section block {
+  width: 100%;
+  float: left;
+}
+
+block h3 {
+  font-size: 1.0rem;
+  margin-bottom: 10px;
+/*  letter-spacing: 3px; */
+}
+
+section article {
+  width: 100%;
+  float: left;
+}
+
+section p {
+  margin: 5px 0px;
+}
+
+section ul {
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+/*  letter-spacing: -5px; */
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.4rem;
+/*  letter-spacing: -5px; */
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+
+h5 {
+  font-size: 1.0rem;
+/*  margin-bottom: -10px; */  
+}
+
+
+@media print {
+  @page { margin: 0; margin-left: 1em ; margin-right: 1em; }
+}
