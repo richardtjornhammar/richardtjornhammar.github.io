@@ -82,7 +82,7 @@
                 "Mathematical modeling",
                 "Algorithm development",
                 "Multivariate analysis",
-                "Multiple hypothesis testing",                
+                "Multiple hypothesis testing",
                 "Linux",
                 "Open source",
                 "Artificial neural networks",
@@ -625,4 +625,8 @@
             "Assorted Visuals": "https://github.com/richardtjornhammar/AssortedVisualsPresentation/blob/main/VisalisationPortfolio.pdf"
         }
     ]
+    "Interesting additions": [
+	{"Power animal" : "Saiga" } ,
+	{"Favourite animal" : "Pelican" } ,
+	{"Spirit animal" : "Panda" }
 }
