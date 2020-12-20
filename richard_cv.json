@@ -154,7 +154,7 @@
                 {
                     "Name": "Supervision support FOI/KTH student",
                     "Role": "Informal supervision",
-                    "Description": "ET ) Discussions about Machine learning and connectivity. He developed the concept of connectivity clustering into a hierarchical clustering routine and library in python. Not yet publicly available."
+                    "Description": "ET ) Discussions about Machine learning and connectivity. He developed a hierarchical clustering routine and library (hypomach) in python. Not yet publicly available."
                 },
                 {
                     "Name": "Supervision support KTH student",
